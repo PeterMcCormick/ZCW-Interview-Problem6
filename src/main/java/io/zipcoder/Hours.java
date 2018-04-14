@@ -5,7 +5,7 @@ public enum Hours {
     ONE ("One"),
     TWO ("Two"),
     THREE ("Three"),
-    Four ("Four"),
+    FOUR ("Four"),
     FIVE ("Five"),
     SIX ("Six"),
     SEVEN ("Seven"),
